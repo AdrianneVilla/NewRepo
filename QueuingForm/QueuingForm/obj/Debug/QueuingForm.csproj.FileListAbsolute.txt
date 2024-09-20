@@ -1,0 +1,12 @@
+C:\Users\villa.286986\source\repos\QueuingForm\QueuingForm\bin\Debug\QueuingForm.exe.config
+C:\Users\villa.286986\source\repos\QueuingForm\QueuingForm\bin\Debug\QueuingForm.exe
+C:\Users\villa.286986\source\repos\QueuingForm\QueuingForm\bin\Debug\QueuingForm.pdb
+C:\Users\villa.286986\source\repos\QueuingForm\QueuingForm\obj\Debug\QueuingForm.csproj.AssemblyReference.cache
+C:\Users\villa.286986\source\repos\QueuingForm\QueuingForm\obj\Debug\QueuingForm.QueuingForm.resources
+C:\Users\villa.286986\source\repos\QueuingForm\QueuingForm\obj\Debug\QueuingForm.Properties.Resources.resources
+C:\Users\villa.286986\source\repos\QueuingForm\QueuingForm\obj\Debug\QueuingForm.csproj.GenerateResource.cache
+C:\Users\villa.286986\source\repos\QueuingForm\QueuingForm\obj\Debug\QueuingForm.csproj.CoreCompileInputs.cache
+C:\Users\villa.286986\source\repos\QueuingForm\QueuingForm\obj\Debug\QueuingForm.exe
+C:\Users\villa.286986\source\repos\QueuingForm\QueuingForm\obj\Debug\QueuingForm.pdb
+C:\Users\villa.286986\source\repos\QueuingForm\QueuingForm\obj\Debug\QueuingForm.CashierWindowQueueForm.resources
+C:\Users\villa.286986\source\repos\QueuingForm\QueuingForm\obj\Debug\QueuingForm.CustomerView.resources
