@@ -1,0 +1,11 @@
+C:\Users\JERSON\source\repos\BillingReceipt\BillingReceipt\bin\Debug\BillingReceipt.exe.config
+C:\Users\JERSON\source\repos\BillingReceipt\BillingReceipt\bin\Debug\BillingReceipt.exe
+C:\Users\JERSON\source\repos\BillingReceipt\BillingReceipt\bin\Debug\BillingReceipt.pdb
+C:\Users\JERSON\source\repos\BillingReceipt\BillingReceipt\obj\Debug\BillingReceipt.csproj.AssemblyReference.cache
+C:\Users\JERSON\source\repos\BillingReceipt\BillingReceipt\obj\Debug\BillingReceipt.Properties.Resources.resources
+C:\Users\JERSON\source\repos\BillingReceipt\BillingReceipt\obj\Debug\BillingReceipt.csproj.GenerateResource.cache
+C:\Users\JERSON\source\repos\BillingReceipt\BillingReceipt\obj\Debug\BillingReceipt.csproj.CoreCompileInputs.cache
+C:\Users\JERSON\source\repos\BillingReceipt\BillingReceipt\obj\Debug\BillingReceipt.exe
+C:\Users\JERSON\source\repos\BillingReceipt\BillingReceipt\obj\Debug\BillingReceipt.pdb
+C:\Users\JERSON\source\repos\BillingReceipt\BillingReceipt\obj\Debug\BillingReceipt.Form1.resources
+C:\Users\JERSON\source\repos\BillingReceipt\BillingReceipt\obj\Debug\BillingReceipt.frnPrint.resources
